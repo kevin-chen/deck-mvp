@@ -10,6 +10,11 @@
       "StackName": "amplify-deckmvp-dev-165057",
       "StackId": "arn:aws:cloudformation:us-east-1:254915750729:stack/amplify-deckmvp-dev-165057/25a471c0-0a9d-11ec-afbf-0ebb325b25bf",
       "AmplifyAppId": "d30c7cj0slm2c6"
+    },
+    "categories": {
+      "auth": {
+        "deckmvp53b09093": {}
+      }
     }
   }
 }
